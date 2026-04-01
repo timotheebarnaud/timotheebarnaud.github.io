@@ -40,4 +40,8 @@
 
 ## Portfolio en rédaction
 
-blabla
+**La Croix** : 
+[Louis Cofflard, vent debout contre TotalEnergies](https://www.la-croix.com/environnement/Louis-Cofflard-vent-debout-contre-TotalEnergies-2023-02-28-1201257139)
+
+**Liberation** :  
+[Ces nouveaux militants qui luttent loin des structures politiques](https://www.liberation.fr/politique/ces-nouveaux-militants-qui-luttent-loin-des-structures-politiques-20220905_RD3VXM2R7ZAPNOEZHFUMGRMRN4/)
