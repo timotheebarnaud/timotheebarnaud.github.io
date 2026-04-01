@@ -19,14 +19,11 @@
 | 2017 - 2020 | **Université de Lille - Académie ESJ Lille** - Licence Science politique, parcours journalisme |
 
 
-## Compétences
-
-blabla
-
 ## Portfolio data
 
-blabla
+**[Municipales 1er tour 2020 vs 2026](https://github.com/timotheebarnaud/elections-municipales-2020-2026)**
+Comparaison de l'évolution des blocs politiques commune par commune, 13 cartes régionales interactives.
 
-## Portfolio journalistique
+## Portfolio en rédaction
 
 blabla
