@@ -21,6 +21,7 @@
 
 ## Portfolio data
 
+
 **[Municipales 1er tour 2020 / 2026](https://github.com/timotheebarnaud/elections-municipales-2020-2026)** - Comparaison de l'évolution des blocs politiques commune par commune, 13 cartes régionales interactives.
 
 **[Sites SEVESO en zone inondable](https://github.com/timotheebarnaud/seveso-risques-industriels)** - Croisement API Géorisques + zones TRI via QGIS, deux cartes Flourish + carte Folium interactive.
