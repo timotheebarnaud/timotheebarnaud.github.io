@@ -10,6 +10,8 @@
 | Février/mars 2022 | **La Voix du Nord** - Stagiaire à la locale de Lille|
 | Sept. 2020 - Juillet 2021 | **Le Petit Lillois** - Rédacteur tactique & data|
 
+
+
 ## Formation
 
 | | |
@@ -17,6 +19,8 @@
 | 2021 - 2023 | **Institut Français de Presse** - Master journalisme |
 | 2020 - 2021 | **Académie ESJ Lille** - Préparation aux concours |
 | 2017 - 2020 | **Université de Lille - Académie ESJ Lille** - Licence Science politique, parcours journalisme |
+
+
 
 
 ## Portfolio data
