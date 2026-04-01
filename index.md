@@ -11,6 +11,7 @@
 | Sept.2020 - Juillet 2021 | **Le Petit Lillois** - Rédacteur tactique & data|
 
 ## Formation
+
 | | |
 |---|---|
 | 2021 - 2023 | **Institut Français de Presse** - Master journalisme dans l'une des 14 écoles reconnues |
