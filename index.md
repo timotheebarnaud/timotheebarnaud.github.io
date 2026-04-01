@@ -1,4 +1,4 @@
-## Parcours
+## Parcours  
 | | |
 |---|---|
 | Mai - Oct. 2025 | **Le HuffPost** — Journaliste web |
@@ -11,7 +11,7 @@
 
 
 
-## Formation
+## Formation  
 | | |
 |---|---|
 | 2021 - 2023 | **Institut Français de Presse** - Master journalisme |
