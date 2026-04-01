@@ -43,8 +43,16 @@
 
 ## Portfolio en rédaction
 
+**L'Express** :  
+- [Législatives 2024 : Le Pen, Borne, Hollande… Les résultats marquants du premier tour](https://www.lexpress.fr/politique/legislatives-2024-le-pen-borne-hollande-les-premiers-resultats-marquants-du-premier-tour-5ZO6MUN46NHNZPR5554CYGSQIY/)
+- [Législatives 2024 : Attal , Darmanin, Séjourné... les ministres candidats ont-ils réussi leur pari ?](https://www.lexpress.fr/politique/legislatives-2024-les-ministres-candidats-ont-ils-reussi-leur-pari-LFUHIQ6G25H7HAJG6YB2GY3GF4/)
+
 **La Croix** :  
 - [Louis Cofflard, vent debout contre TotalEnergies](https://www.la-croix.com/environnement/Louis-Cofflard-vent-debout-contre-TotalEnergies-2023-02-28-1201257139)
+- [Soulac-sur-Mer : fin de l’immeuble du Signal, symbole de l’impact de l’érosion côtière](https://www.la-croix.com/environnement/Soulac-sur-Mer-fin-limmeuble-Signal-symbole-limpact-lerosion-cotiere-2023-02-03-1201253646)
 
 **Liberation** :  
 - [Ces nouveaux militants qui luttent loin des structures politiques](https://www.liberation.fr/politique/ces-nouveaux-militants-qui-luttent-loin-des-structures-politiques-20220905_RD3VXM2R7ZAPNOEZHFUMGRMRN4/)
+- [Assemblée nationale: ces députés insoumis qui savent «ce que c’est de porter le piquet de grève»](https://www.liberation.fr/politique/assemblee-nationale-ces-deputes-insoumis-qui-savent-ce-que-cest-de-porter-le-piquet-de-greve-20220822_LWYPKZUYQBF6DA6R2RJPRPA5HU/)
+- [Point d’indice des fonctionnaires: avec le dégel des salaires, la fonte des budgets locaux](https://www.liberation.fr/politique/point-dindice-des-fonctionnaires-avec-le-degel-des-salaires-la-fonte-des-budgets-locaux-20220721_VLY3ZDBJEVEKFDNN6IEABVK2QM/)
+- 
