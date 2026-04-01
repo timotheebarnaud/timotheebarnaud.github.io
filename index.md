@@ -14,8 +14,8 @@
 
 | | |
 |---|---|
-| 2021 - 2023 | **Institut Français de Presse** - Master journalisme dans l'une des 14 écoles reconnues |
-| 2020 - 2021 | **Académie ESJ Lille** - Préparation aux concours d’école de journalisme |
+| 2021 - 2023 | **Institut Français de Presse** - Master journalisme |
+| 2020 - 2021 | **Académie ESJ Lille** - Préparation aux concours |
 | 2017 - 2020 | **Université de Lille - Académie ESJ Lille** - Licence Science politique, parcours journalisme |
 
 
