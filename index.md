@@ -41,11 +41,18 @@
 
 
 
-## Portfolio en rédaction
+## Portfolio en rédaction (data / hors-data)
+
+**Le HuffPost** :  
+- 
 
 **L'Express** :  
 - [Législatives 2024 : Le Pen, Borne, Hollande… Les résultats marquants du premier tour](https://www.lexpress.fr/politique/legislatives-2024-le-pen-borne-hollande-les-premiers-resultats-marquants-du-premier-tour-5ZO6MUN46NHNZPR5554CYGSQIY/)
 - [Législatives 2024 : Attal , Darmanin, Séjourné... les ministres candidats ont-ils réussi leur pari ?](https://www.lexpress.fr/politique/legislatives-2024-les-ministres-candidats-ont-ils-reussi-leur-pari-LFUHIQ6G25H7HAJG6YB2GY3GF4/)
+- [Guerre en Ukraine : Pokrovsk, la nouvelle cible de Poutine pour faire tomber le Donbass](https://www.lexpress.fr/monde/guerre-en-ukraine-pokrovsk-la-nouvelle-cible-de-poutine-pour-faire-tomber-le-donbass-PRHEUC3EQZD3BJ5RM7CV5HPXS4/)
+- [Déforestation de l’Amazonie : au Brésil, le numéro d’équilibriste de Lula](https://www.lexpress.fr/monde/deforestation-de-lamazonie-au-bresil-le-numero-dequilibriste-de-lula-MZZ2D2SN5RCO7A4C2L4FCN23OQ/)
+- [Maladies chroniques : cette forte progression en France qui pèse sur l’Assurance maladie](https://www.lexpress.fr/sciences-sante/sante/maladies-chroniques-cette-forte-progression-en-france-qui-pese-sur-lassurance-maladie-C2AC2I2XINHH5CUZOS7NYWPL2Y/)
+- [Télétravail, le début de la fin ? Le point de vue de quatre experts RH](https://www.lexpress.fr/economie/emploi/management/teletravail-le-debut-de-la-fin-le-point-de-vue-de-quatre-experts-rh-2WY6KFCSINAWFIFQ5HJGMA6ULQ/)
 
 **La Croix** :  
 - [Louis Cofflard, vent debout contre TotalEnergies](https://www.la-croix.com/environnement/Louis-Cofflard-vent-debout-contre-TotalEnergies-2023-02-28-1201257139)
