@@ -26,15 +26,15 @@
 ## Portfolio data
 
 
-**[Municipales 1er tour 2020 / 2026](https://github.com/timotheebarnaud/elections-municipales-2020-2026)** — Comparaison de l'évolution des blocs politiques commune par commune, 13 cartes régionales interactives.
+- **[Municipales 1er tour 2020 / 2026](https://github.com/timotheebarnaud/elections-municipales-2020-2026)** — Comparaison de l'évolution des blocs politiques commune par commune, 13 cartes régionales interactives.
 
-**[Sites SEVESO en zone inondable](https://github.com/timotheebarnaud/seveso-risques-industriels)** — Croisement API Géorisques + zones TRI via QGIS, deux cartes Flourish + carte Folium interactive.
+- **[Sites SEVESO en zone inondable](https://github.com/timotheebarnaud/seveso-risques-industriels)** — Croisement API Géorisques + zones TRI via QGIS, deux cartes Flourish + carte Folium interactive.
 
-**[Evolution des maires des 50 plus grandes villes de France](https://github.com/timotheebarnaud/evolution-maires-grandes-villes)** — Scraping et constitution d'une base de données, connected dot plot interactif.
+- **[Evolution des maires des 50 plus grandes villes de France](https://github.com/timotheebarnaud/evolution-maires-grandes-villes)** — Scraping et constitution d'une base de données, connected dot plot interactif.
 
-**[La crise d'accès aux médecins spécialistes en France](https://github.com/timotheebarnaud/deserts-medicaux)** — API Ameli, carte choroplèthe interactive avec dropdown par spécialité.
+- **[La crise d'accès aux médecins spécialistes en France](https://github.com/timotheebarnaud/deserts-medicaux)** — API Ameli, carte choroplèthe interactive avec dropdown par spécialité.
 
-**[YouTube : comment se comportent les audiences des médias français ?](https://github.com/timotheebarnaud/youtube-medias-francais)** — API YouTube Data v3, trois infographies via des indicateurs de performance construits.
+- **[YouTube : comment se comportent les audiences des médias français ?](https://github.com/timotheebarnaud/youtube-medias-francais)** — API YouTube Data v3, trois infographies via des indicateurs de performance construits.
 
 
 
