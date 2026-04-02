@@ -40,7 +40,7 @@
 
 
 
-## Portfolio en rédaction (data / hors-data)
+## Portfolio rédaction
 
 **Le HuffPost** :  
 - [À Gaza, les « doubles frappes » d’Israël illustrent la volonté de cibler les civils et les journalistes](https://www.huffingtonpost.fr/international/article/a-gaza-les-doubles-frappes-d-israel-illustrent-la-volonte-de-cibler-les-civils-et-les-journalistes_254043.html)
