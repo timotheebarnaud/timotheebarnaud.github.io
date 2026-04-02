@@ -3,18 +3,19 @@
 
 @import "jekyll-theme-minimal";
 
-/* Réduire l'espace entre titres et tableaux */
+/* Réduire l'espace entre titres de section et contenu qui suit */
 h2 {
-  margin-bottom: 5px;
+  margin-bottom: 8px;
+  margin-top: 80px;
+}
+
+/* Le premier h2 n'a pas besoin d'autant d'espace au-dessus */
+h2:first-child {
+  margin-top: 0;
 }
 
 /* Forcer les dates sur une seule ligne */
 table td:first-child {
   white-space: nowrap;
   min-width: 180px;
-}
-
-/* Plus d'espace entre les sections */
-h2 {
-  margin-top: 40px;
 }
