@@ -47,6 +47,7 @@
 - [Le come-back fracassant de Nigel Farage, le « clown » devenu opposant numéro 1 à Keir Starmer](https://www.huffingtonpost.fr/international/article/le-come-back-fracassant-de-nigel-farage-le-clown-devenu-opposant-numero-1-a-keir-starmer-clx1_252164.html)
 - [Pourquoi Donald Trump, même absent, sera au centre du sommet sur les Océans à Nice](https://www.huffingtonpost.fr/environnement/article/pourquoi-donald-trump-meme-absent-sera-au-centre-du-sommet-sur-les-oceans-a-nice_250962.html)
 - [Comment le mot « génocide » cristallise toutes les tensions sur la situation à Gaza](https://www.huffingtonpost.fr/international/article/comment-le-mot-genocide-cristallise-toutes-les-tensions-sur-la-situation-a-gaza_250101.html)
+- **[Data]** [Vigilance orange canicule : pourquoi votre département n’est pas concerné malgré les fortes températures](https://www.huffingtonpost.fr/france/article/vigilance-orange-canicule-pourquoi-votre-departement-n-est-pas-concerne-malgre-les-fortes-temperatures_251612.html)
 - [En Iran, la possible disparition de l’uranium enrichi fait craindre une « fuite en avant » du régime](https://www.huffingtonpost.fr/international/article/en-iran-la-possible-disparition-de-l-uranium-enrichi-fait-craindre-une-fuite-en-avant-du-regime_251908.html)
 
 **L'Express** :  
@@ -65,3 +66,6 @@
 - [Ces nouveaux militants qui luttent loin des structures politiques](https://www.liberation.fr/politique/ces-nouveaux-militants-qui-luttent-loin-des-structures-politiques-20220905_RD3VXM2R7ZAPNOEZHFUMGRMRN4/)
 - [Assemblée nationale: ces députés insoumis qui savent «ce que c’est de porter le piquet de grève»](https://www.liberation.fr/politique/assemblee-nationale-ces-deputes-insoumis-qui-savent-ce-que-cest-de-porter-le-piquet-de-greve-20220822_LWYPKZUYQBF6DA6R2RJPRPA5HU/)
 - [Point d’indice des fonctionnaires: avec le dégel des salaires, la fonte des budgets locaux](https://www.liberation.fr/politique/point-dindice-des-fonctionnaires-avec-le-degel-des-salaires-la-fonte-des-budgets-locaux-20220721_VLY3ZDBJEVEKFDNN6IEABVK2QM/)
+
+**Le Petit Lillois** :
+- **[Data]** [Décryptage tactique du rôle des milieux de terrain lillois](https://web.archive.org/web/20210212003843/https:/www.lepetitlillois.com/2021/02/11/decryptage-tactique-du-role-des-milieux-de-terrain-lillois/)
