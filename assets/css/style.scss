@@ -2,18 +2,33 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-/* Réduire l'espace entre titres de section et contenu qui suit */
+/* Police générale */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Fond bleu très pâle */
+body {
+  background-color: #f0f4f8;
+}
+
+/* Titre en rouge */
+header h1 a {
+  color: #ff2c2c !important;
+}
+
+/* Espacement entre sections */
 h2 {
   margin-top: 80px;
 }
 
-/* Le premier h2 n'a pas besoin d'autant d'espace au-dessus */
 h2:first-child {
   margin-top: 0;
 }
 
-/* Forcer les dates sur une seule ligne */
+/* Dates sur une ligne */
 table td:first-child {
   white-space: nowrap;
   min-width: 120px;
