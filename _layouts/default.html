@@ -1,1 +1,43 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+ 
+        <h3>Contact</h3>
+        <ul>
+          <li><a href="mailto:tim.barnaud@gmail.com">tim.barnaud@gmail.com</a></li>
+          <li><a href="https://x.com/timotheebarnaud">Twitter / X</a></li>
+          <li><a href="https://fr.linkedin.com/in/timoth%C3%A9e-barnaud-234899154">LinkedIn</a></li>
+        </ul>
+ 
+        <h3>Compétences</h3>
+        <ul>
+          <li><strong>Scraping</strong> : Python (BS4, selenium)</li>
+          <li><strong>Datavisualisation</strong> : Flourish, Datawrapper</li>
+          <li><strong>Lecture et utilisation d'API</strong></li>
+          <li><strong>Analyse de données</strong> : Pandas</li>
+          <li><strong>Cartographie</strong> : QGIS, bases de Folium</li>
+          <li><strong>Écriture et édition web</strong></li>
+          <li><strong>Anglais : niveau C2</strong></li>
+        </ul>
+ 
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages</small></p>
+      </footer>
+    </div>
+  </body>
+</html>
