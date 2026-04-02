@@ -2,14 +2,13 @@
 
 | | |
 |---|---|
-| Mai - Oct. 2025 | **Le HuffPost** — Journaliste web |
+| Mai - Sept. 2025 | **Le HuffPost** — Journaliste web |
 | Oct. 2024 - Mai 2025  | **L'Express** - Pigiste web régulier |
 | Juillet 2023 - Oct. 2024 | **L'Express** - Journaliste web |
 | Fév. 2023 | **La Croix** - Stagiaire au service éco & transition |
 | Eté 2022 | **Libération** - Stagiaire au service politique |
 | Février/mars 2022 | **La Voix du Nord** - Stagiaire à la locale de Lille|
 | Sept. 2020 - Juillet 2021 | **Le Petit Lillois** - Rédacteur tactique & data|
-
 
 
 
@@ -44,7 +43,11 @@
 ## Portfolio en rédaction (data / hors-data)
 
 **Le HuffPost** :  
-- 
+- [À Gaza, les « doubles frappes » d’Israël illustrent la volonté de cibler les civils et les journalistes](https://www.huffingtonpost.fr/international/article/a-gaza-les-doubles-frappes-d-israel-illustrent-la-volonte-de-cibler-les-civils-et-les-journalistes_254043.html)
+- [Le come-back fracassant de Nigel Farage, le « clown » devenu opposant numéro 1 à Keir Starmer](https://www.huffingtonpost.fr/international/article/le-come-back-fracassant-de-nigel-farage-le-clown-devenu-opposant-numero-1-a-keir-starmer-clx1_252164.html)
+- [Pourquoi Donald Trump, même absent, sera au centre du sommet sur les Océans à Nice](https://www.huffingtonpost.fr/environnement/article/pourquoi-donald-trump-meme-absent-sera-au-centre-du-sommet-sur-les-oceans-a-nice_250962.html)
+- [Comment le mot « génocide » cristallise toutes les tensions sur la situation à Gaza](https://www.huffingtonpost.fr/international/article/comment-le-mot-genocide-cristallise-toutes-les-tensions-sur-la-situation-a-gaza_250101.html)
+- [En Iran, la possible disparition de l’uranium enrichi fait craindre une « fuite en avant » du régime](https://www.huffingtonpost.fr/international/article/en-iran-la-possible-disparition-de-l-uranium-enrichi-fait-craindre-une-fuite-en-avant-du-regime_251908.html)
 
 **L'Express** :  
 - [Législatives 2024 : Le Pen, Borne, Hollande… Les résultats marquants du premier tour](https://www.lexpress.fr/politique/legislatives-2024-le-pen-borne-hollande-les-premiers-resultats-marquants-du-premier-tour-5ZO6MUN46NHNZPR5554CYGSQIY/)
