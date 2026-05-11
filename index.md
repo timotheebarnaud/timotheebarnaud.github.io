@@ -25,6 +25,7 @@
 
 ## Portfolio data
 
+**[Logement en Europe : panorama des politiques publiques et de la pression sur les ménages](https://github.com/timotheebarnaud/politique_logement_UE)** — Comparaison des politiques publiques européennes sur le logement et de la situation des ménages dans les 27.
 
 **[Municipales 2020 - 2026 : comment les blocs politiques ont évolué](https://github.com/timotheebarnaud/elections-municipales-2020-2026)** — Comparaison de l'évolution des blocs politiques commune par commune, 13 cartes régionales interactives.
 
